@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <!-- insert your AIML categories here -->
+  
+  <!--<category>-->
+  <!--  <pattern>who are you</pattern>-->
+  <!--  <template>-->
+  <!--    <random>-->
+         
+  <!--        <li>i am a bot</li>-->
+  <!--        <li>hey it's spunky a bot </li>-->
+  <!--        <li>it's your bot </li>-->
+      
+          
+  <!--    </random>-->
+  <!--   </template>-->
+  <!--</category>-->
+  
+  <!--<category>-->
+  <!--    <pattern>Hey ^</pattern>-->
+  <!--    <template>-->
+  <!--        Hello-->
+  <!--    </template>-->
+  <!--</category>-->
+  
+  <!--<category>-->
+  <!--    <pattern>Hey Divyanshu</pattern>-->
+  <!--    <template>-->
+  <!--        hey i am spunky -->
+  <!--    </template>-->
+  <!--</category>-->
+  
+  
+  <!--<category>-->
+  <!--    <pattern>Hey _</pattern>-->
+  <!--    <template>-->
+  <!--        hey i am spunky priority given -->
+  <!--    </template>-->
+  <!--</category>-->
+  
+  <!-- <category>-->
+  <!--    <pattern>$who is spunky</pattern>-->
+  <!--    <template>-->
+  <!--        hey I am spunky -->
+  <!--    </template>-->
+  <!--</category>-->
+  
+  <!--  <category>-->
+  <!--    <pattern>_ spunky</pattern>-->
+  <!--    <template>-->
+  <!--        hey I am spunky priroty given-->
+  <!--    </template>-->
+  <!--</category>-->
+  
+  <!--   <category>-->
+  <!--    <pattern>My name is *</pattern>-->
+  <!--    <template>-->
+  <!--        hey,<star></star>-->
+  <!--    </template>-->
+  <!--</category>-->
+  
+  
+  
+  
+  
+  
+</aiml>
